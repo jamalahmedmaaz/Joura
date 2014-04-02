@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.scala-lang.modules:scala-parser-combinators_2.11.0-M8:1.0.0-RC5">
+    <CLASSES>
+      <root url="jar://$M2_REPO$/org/scala-lang/modules/scala-parser-combinators_2.11.0-M8/1.0.0-RC5/scala-parser-combinators_2.11.0-M8-1.0.0-RC5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$M2_REPO$/org/scala-lang/modules/scala-parser-combinators_2.11.0-M8/1.0.0-RC5/scala-parser-combinators_2.11.0-M8-1.0.0-RC5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$M2_REPO$/org/scala-lang/modules/scala-parser-combinators_2.11.0-M8/1.0.0-RC5/scala-parser-combinators_2.11.0-M8-1.0.0-RC5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

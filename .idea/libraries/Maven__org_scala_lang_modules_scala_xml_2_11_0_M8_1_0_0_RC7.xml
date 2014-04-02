@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.scala-lang.modules:scala-xml_2.11.0-M8:1.0.0-RC7">
+    <CLASSES>
+      <root url="jar://$M2_REPO$/org/scala-lang/modules/scala-xml_2.11.0-M8/1.0.0-RC7/scala-xml_2.11.0-M8-1.0.0-RC7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$M2_REPO$/org/scala-lang/modules/scala-xml_2.11.0-M8/1.0.0-RC7/scala-xml_2.11.0-M8-1.0.0-RC7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$M2_REPO$/org/scala-lang/modules/scala-xml_2.11.0-M8/1.0.0-RC7/scala-xml_2.11.0-M8-1.0.0-RC7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

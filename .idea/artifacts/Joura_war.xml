@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="Joura:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Joura.war">
+      <element id="artifact" artifact-name="Joura:war exploded" />
+    </root>
+  </artifact>
+</component>
